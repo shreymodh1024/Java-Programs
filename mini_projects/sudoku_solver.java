@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class sudoku {
+public class sudoku_solver {
 
     static void input(int[][] arr){
         Scanner sc = new Scanner(System.in);
