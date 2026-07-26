@@ -3,7 +3,10 @@
 * In Java, every method must be part of some class that is different from languages like C, C++, and Python.
   # Strings
 * there are two ways to create a string object: 1. string literal , 2. new keyword
-* strings are 1) mutable and 2) immutable
+* strings are 1) mutable (literal string) and 2) immutable (string buffer, string builder)
+
+  ## StringBuffer
+  it is a class in java that represents a mutable sequence of characters
 
 
 
