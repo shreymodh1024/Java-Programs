@@ -28,6 +28,13 @@
          - it is a restricted class that cannot be used to create objects( to access it, it must be inherited from another class)
          ##### Abstract method
          - It can only be used in an abstract class.
+         ##### Constructors
+         - it is a special method used in the creation of object.
+         - it initializes the state of an object during the time of object creation.
+         - two types 1. default constructors 2. parameterized constructors
+         > Constructor Overloading: this allows multiple constructors with different parameters lists to be defined in class. It is similar to method overloading
+         - Constructor chaining: 
+           
 
 
 
