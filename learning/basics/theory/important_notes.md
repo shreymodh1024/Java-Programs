@@ -16,5 +16,19 @@
     4. encapsulation
     5. objects
 
+       ### encapsulation
+       - defined wrapping up of data under single unit.
+       - here data in a class is hidden from other classes.
+       - acts as a protective shield that prevents the data from being accessed by the code outside this shield.
+
+       ### abstraction
+       - it is a property by virtue of which only essential details are exhibited to user.
+       - can be achieved either from abstract classes or interfaces.
+         ##### Abstract class
+         - it is a restricted class that cannot be used to create objects( to access it, it must be inherited from another class)
+         ##### Abstract method
+         - It can only be used in an abstract class.
+
+
 
 
