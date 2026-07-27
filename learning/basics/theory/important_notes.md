@@ -37,6 +37,11 @@
 
            ### Inheritance
            - feature where one object acquires all properties of parent object.
+           - types:
+             1. Single-level inheritance
+             2. multi-level inheritance
+             3. Hierarchial inheritance
+             4. Hybrid inheritance
            
            
 
