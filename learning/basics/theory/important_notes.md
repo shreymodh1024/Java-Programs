@@ -33,7 +33,11 @@
          - it initializes the state of an object during the time of object creation.
          - two types 1. default constructors 2. parameterized constructors
          > Constructor Overloading: this allows multiple constructors with different parameters lists to be defined in class. It is similar to method overloading
-         - Constructor chaining: 
+         - Constructor chaining: calling a constructor from another constructor.
+
+           ### Inheritance
+           - feature where one object acquires all properties of parent object.
+           
            
 
 
