@@ -42,6 +42,12 @@
              2. multi-level inheritance
              3. Hierarchial inheritance
              4. Hybrid inheritance
+           - Upcasting (happens implicitly): means typecasting the child reference/object to parent reference. we cannot access all the variables and method of child class.
+           - Downcasting (we do it manually): means typecasting (downcasting) the parent reference to child reference.
+
+             
+
+            
            
            
 
