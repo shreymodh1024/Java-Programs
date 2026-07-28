@@ -45,6 +45,15 @@
            - Upcasting (happens implicitly): means typecasting the child reference/object to parent reference. we cannot access all the variables and method of child class.
            - Downcasting (we do it manually): means typecasting (downcasting) the parent reference to child reference.
 
+
+           ### Polymorphism
+           - compile-time polymorphism:
+           > also called static polymorphism.
+           - run-time polymorphism:
+           >
+           ##### Method overloading
+           to declare multiple methods with same name but different parameters in same class
+
              
 
             
