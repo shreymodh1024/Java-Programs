@@ -19,6 +19,7 @@ class b extends a{
     }
     b(int x){
         super(); // means calling void constructor of a super class
+        //this(); arg here executes the constructor of same class. in this case, void constructor.
         System.out.println("int b constructor "+x);
     }
 }
