@@ -53,6 +53,8 @@
            >
            ##### Method overloading
            to declare multiple methods with same name but different parameters in same class
+           ##### Method overriding:
+           In this, subclass has the same  method as declared in the parent class. 
 
              
 
