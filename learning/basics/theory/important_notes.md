@@ -24,7 +24,8 @@
        ### abstraction
        - it is a property by virtue of which only essential details are exhibited to user.
        - can be achieved either from abstract classes or interfaces.
-         ##### Abstract class
+         
+       ##### Abstract class
          - it is a restricted class that cannot be used to create objects( to access it, it must be inherited from another class)
          ##### Abstract method
          - It can only be used in an abstract class.
@@ -54,7 +55,13 @@
            ##### Method overloading
            to declare multiple methods with same name but different parameters in same class
            ##### Method overriding:
-           In this, subclass has the same  method as declared in the parent class. 
+           In this, subclass has the same  method as declared in the parent class.
+
+
+         #### Interfaces
+       - It is a blueprint of a class. It has static constants and abstract methods.
+       - By default methods are abstract here.
+       - all variables and methods inside an interface are by default final and static.
 
              
 
