@@ -1,4 +1,4 @@
-public class main3 {
+public class Stack_from_LinkedList {
 
     static class Node{
         int val;
